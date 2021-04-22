@@ -1,16 +1,25 @@
 # Bash IRC Client
 --------------------------------------
   This is just a bash bot turned into an IRC Client that is in development!!!
-  If you would like to use the only way for the input box is for someone to type -speakzen into the channel.
 --------------------------------------
-Current Dependency -- zenity
+# SEEMS PRETTY COOL!!!
 --------------------------------------
-# IN DEVELOPMENT!!!
+## How to use!!!
+  - Not very user friendly atm!!! Will work on this
+1. Configure bot.properties
+  - If no password leave it as it is.
+  - Really only need to edit server, channel, and nick.
+2. Wait for it to connect all the way!!!
+3. Mesage examples below!
+  - PRIVMSG #channel HI
+  - JOIN #channel
+  - PRVMSG nick Hi the is a private msg
 --------------------------------------
 ## TO DO
-1. Fix not connecting sometimes.
-## Possibly not authenticating correctly or maybe need to check ssl cert if valid.
-2. Maybe find new pop up input box method.
-## When the pop up is enabled it seems to not like to send PING response! 
-## Would be cool if it was just terminal input like irssi
-3. If keep zenity input box pop up then configure something like read keypress to pop up!
+1. Fix not connecting sometimes!!!
+  - Possibly openssl cert!!! look into the openssl --help
+2. Clean Up!!!
+3. Create read input to variables for server, port, nick, and pass unpon startup!!!
+  - Rework how u print the variables and join channel all to happen one after another??? maybe i think lol
+4. Look into coloring!!! MAKE IT LOOK SICK!!!
+5. Maybe add an up arrow feature to grab last msg!!!
