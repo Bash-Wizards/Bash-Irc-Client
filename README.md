@@ -1,7 +1,7 @@
 # Bash IRC Client
 --------------------------------------
   This is just a bash bot turned into an IRC Client that is in development!!!
-  Original code - https://gist.github.com/anonymous/9493e93c46f9a175aebb
+  Original code - https://gist.github.com/anonymous/9493e93c46f9a175aebb + https://github.com/TripleZer000/BashBot
 --------------------------------------
 ## How to use!!!
   - Not very user friendly atm!!! Will work on this
