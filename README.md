@@ -3,6 +3,11 @@
   This is just a bash bot turned into an IRC Client that is in development!!!
   Original code - https://gist.github.com/anonymous/9493e93c46f9a175aebb + https://github.com/TripleZer000/BashBot
 --------------------------------------
+## readme.md needs to be updated again and new instructions
+## but the files here if you can read and understand them are almost the final version
+## just one bug... the status line seems to screw up
+## more testing needed to figure this out!!!
+--------------------------------------
 ## How to use!!!
   - Not very user friendly atm!!! Will work on this
   - Only Does Single Channel MULTICHANNEL ON THE WAY!!!
